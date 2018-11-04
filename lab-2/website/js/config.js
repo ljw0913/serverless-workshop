@@ -1,6 +1,6 @@
 var configConstants = {
     auth0: {
-        domain: 'YOUR_AUTH0_DOMAIN_HERE',
-        clientId: 'YOUR_AUTH0_CLIENT_ID_HERE'
+        domain: 'act-sfb-ljw.auth0.com',
+        clientId: '_3_n-bdSadOkvtQELKGnQWzUb6Tj9AsJ'
     }
 };
